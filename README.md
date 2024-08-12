@@ -1,4 +1,5 @@
 ## Hi there 👋
+![](https://th.bing.com/th/id/OIP.hCIEDoIA4mDwuhv5A7izVAAAAA?rs=1&pid=ImgDetMain)
 
 <!--
 **ManoMigass/ManoMigass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
