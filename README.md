@@ -1,5 +1,5 @@
 ## Hi there 👋
-![](https://th.bing.com/th/id/OIP.hCIEDoIA4mDwuhv5A7izVAAAAA?rs=1&pid=ImgDetMain)
+![](https://static.wikia.nocookie.net/meme/images/0/00/Cachorro_Dan%C3%A7ante.gif/revision/latest?cb=20170223030701&path-prefix=pt-br)
 
 <!--
 **ManoMigass/ManoMigass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
